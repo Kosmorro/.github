@@ -17,3 +17,9 @@ These repositories also contain useful resources:
 ## Getting support
 
 If you need help to use either Kosmorro or the Kosmorrolib, check [the support page](https://kosmorro.space/support/) to find the one that best suits for you.
+
+## Follow the project
+
+- <a href="https://kosmorro.space">Website</a>
+- <a rel="me" href="https://twitter.com/kosmorro">Twitter</a>
+- <a rel="me" href="https://fosstodon.org/@kosmorro">Mastodon</a>
