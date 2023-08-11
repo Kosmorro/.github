@@ -21,5 +21,4 @@ If you need help to use either Kosmorro or the Kosmorrolib, check [the support p
 ## Follow the project
 
 - <a href="https://kosmorro.space">Website</a>
-- <a rel="me" href="https://twitter.com/kosmorro">Twitter</a>
 - <a rel="me" href="https://fosstodon.org/@kosmorro">Mastodon</a>
